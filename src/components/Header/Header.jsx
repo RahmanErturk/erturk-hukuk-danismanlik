@@ -90,11 +90,7 @@ export default function Header() {
               </ul> */}
             </li>
             <li className="navbar__link navbar_link_blog">
-              <Link
-                className="navbar__link-page"
-                to="/blog"
-                onClick={handleDropDown1}
-              >
+              <Link className="navbar__link-page" onClick={handleDropDown2}>
                 Blog
                 <ul className={"dropdown-list makale " + openDropDown2}>
                   <li className="dropdown-list_link">

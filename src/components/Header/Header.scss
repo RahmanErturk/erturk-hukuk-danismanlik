@@ -10,9 +10,9 @@ header {
   background: rgba(255, 255, 255);
   background: linear-gradient(
     90deg,
-    rgba(228, 228, 228, 0.9) 0%,
-    rgba(199, 199, 199, 0.9) 52%,
-    rgba(149, 149, 149, 0.9) 100%
+    rgba(228, 228, 228) 0%,
+    rgba(199, 199, 199) 52%,
+    rgba(149, 149, 149) 100%
   );
   z-index: 10;
   box-shadow: 0px 0px 10px rgb(150, 150, 150);
@@ -46,6 +46,7 @@ nav {
 }
 
 .navbar__link {
+  text-align: center;
   width: 174px;
   display: inline-block;
   line-height: 60px;
@@ -89,6 +90,7 @@ nav {
     a {
       text-decoration: none;
       padding: 1rem;
+      font-weight: 600;
       color: #b01a1b;
       &:hover {
         color: #b01a1b;
@@ -165,6 +167,7 @@ nav {
     padding: 0;
 
     .navbar__link {
+      width: 100%;
       display: block;
       padding: 0;
       line-height: 30px;
