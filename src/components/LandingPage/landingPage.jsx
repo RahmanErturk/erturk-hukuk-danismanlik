@@ -22,9 +22,10 @@ export default function landingPage() {
           </div>
         </div>
         <div className="buttons">
-          <button type="submit">
-            <a href="#iletisim">Avukata Sor</a>
-          </button>
+          <a href="#iletisim">
+            <button type="submit">Avukata Sor</button>
+          </a>
+
           <a href="#hakkimizda">
             <i className="fa-solid fa-angles-down"></i>
           </a>

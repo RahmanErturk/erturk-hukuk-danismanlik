@@ -1,0 +1,15 @@
+.up_btn {
+  font-size: 2rem;
+  font-weight: 700;
+  background-color: #b01a1b;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 1rem;
+  position: fixed;
+  bottom: 3rem;
+  right: 3rem;
+  &:hover {
+    color: white;
+    background-color: #941818;
+  }
+}

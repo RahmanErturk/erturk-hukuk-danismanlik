@@ -15,6 +15,9 @@ export default function Home() {
       <Services />
       <Blog />
       <Contact />
+      <a className="up_btn" href="#home">
+        <i class="fa-solid fa-angle-up"></i>
+      </a>
     </div>
   );
 }
