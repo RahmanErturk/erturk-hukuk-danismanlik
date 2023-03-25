@@ -1,0 +1,150 @@
+footer {
+  width: 100%;
+  background: rgba(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(150, 150, 150) 0%,
+    rgba(199, 199, 199) 32%,
+    rgba(228, 228, 228) 100%
+  );
+}
+
+.footer__footer-content {
+  width: 95%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-auto-rows: 310px;
+  grid-auto-flow: dense;
+  gap: 50px;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+
+.footer-items {
+  padding: 2rem 0;
+
+  grid-column: span 1;
+}
+
+.footer-items {
+  a {
+    text-decoration: none;
+  }
+  h3 {
+    color: #b01a1b;
+    font-weight: 700;
+    padding: 6px 0;
+    font-size: 1.2rem;
+  }
+  p {
+    padding: 6px 0;
+  }
+
+  ul {
+    padding: 0;
+    li {
+      padding: 0;
+
+      a {
+        text-decoration: none;
+        color: black;
+        &:hover {
+          //   font-size: 17px;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
+
+.items-contact {
+  display: flex;
+  align-items: center;
+  i {
+    font-size: 1.5rem;
+    margin-right: 10px;
+  }
+  p {
+    padding: 5px;
+    margin: 0;
+  }
+}
+
+.footer-logo-title {
+  display: flex;
+  align-items: center;
+  font-size: 18px;
+
+  p {
+    margin: 0;
+  }
+}
+
+.footer-logo {
+  width: 150px;
+  height: 50px;
+}
+
+.footer-logo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.social-media {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  border-bottom: 1px solid #b01a1b;
+}
+
+.social-media__links {
+  font-size: 2rem;
+  margin: 0;
+}
+
+.smlogo {
+  padding: 10px;
+  display: inline-block;
+  a {
+    color: #b01a1b;
+    &:hover {
+      color: #da5a5a;
+    }
+  }
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.placeholder-bottom {
+  height: 30px;
+}
+
+@media (max-width: 1010px) {
+  .footer-items h3 {
+    font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 800px) {
+  .social-media {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 473px) {
+  .footer__footer-content {
+    width: 90%;
+    grid-auto-rows: 200px;
+  }
+
+  .social-media {
+    margin-top: 50px;
+  }
+}

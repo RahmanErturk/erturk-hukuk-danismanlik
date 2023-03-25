@@ -1,0 +1,15 @@
+.goBack {
+  width: 200px;
+  text-align: center;
+  border: none;
+  padding: 0.5rem;
+  margin-bottom: 2rem;
+  color: white;
+  background-color: #b01a1b;
+  border-radius: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+  &:hover {
+    background-color: #971616;
+  }
+}
