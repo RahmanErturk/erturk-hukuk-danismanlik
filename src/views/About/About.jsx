@@ -17,12 +17,12 @@ export default function About() {
           </div>
         </div>
         <div className="aboutView__content-text">
-          <p className="content__text">
-            Avukat Resul Ertürk tarafından kurulmuş olup, temsil ettiği gerçek
-            ve tüzel kişilere hukuk danışmanlığı ve avukatlık hizmeti sunan,
-            yargılama sürecinin her aşamasında çözüm odaklı hareket eden,
-            şeffaflık ve dürüstlüğe önem veren, gelişime açık, dinamik bir hukuk
-            bürosudur. <br />
+          <div className="content__text">
+            Ertürk Hukuk ve Danışmanlık, Avukat Resul Ertürk tarafından kurulmuş
+            olup, temsil ettiği gerçek ve tüzel kişilere hukuk danışmanlığı ve
+            avukatlık hizmeti sunan, yargılama sürecinin her aşamasında çözüm
+            odaklı hareket eden, şeffaflık ve dürüstlüğe önem veren, gelişime
+            açık, dinamik bir hukuk bürosudur. <br />
             <br /> Hukuk danışmanlığı hizmetinin güven ilişkisi içerisinde,
             şeffaflıkla, uzmanlıkla ve sonuç odaklı şekilde verilmesini
             hedefleyen Ertürk Hukuk ve Danışmanlık Eskişehir’de kurulmuştur.
@@ -50,7 +50,7 @@ export default function About() {
             <br /> Bilgisi ve iş ahlakı yüksek ekibimizle birlikte disiplinli
             bir şekilde çalışarak, şeffaflık ilkeleri doğrultusunda hizmet
             vermek temel ilkemizdir.
-          </p>
+          </div>
         </div>
       </div>
     </div>
