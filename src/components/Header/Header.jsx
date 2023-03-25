@@ -92,30 +92,24 @@ export default function Header() {
             <li className="navbar__link navbar_link_blog">
               <Link className="navbar__link-page" onClick={handleDropDown2}>
                 Blog
-                <ul className={"dropdown-list makale " + openDropDown2}>
-                  <li className="dropdown-list_link">
-                    <Link to="/blog" onClick={() => setMenu(false)}>
-                      Tüm Makaleler
-                    </Link>
-                  </li>
-                  <li className="dropdown-list_link">
-                    <Link
-                      to="/blog/son-makaleler"
-                      onClick={() => setMenu(false)}
-                    >
-                      Son Eklenenler
-                    </Link>
-                  </li>
-                  <li className="last-child dropdown-list_link">
-                    <Link
-                      to="/blog/cok-okunanlar"
-                      onClick={() => setMenu(false)}
-                    >
-                      En Çok Okunanlar
-                    </Link>
-                  </li>
-                </ul>
               </Link>
+              <ul className={"dropdown-list makale " + openDropDown2}>
+                <li className="dropdown-list_link">
+                  <Link to="/blog" onClick={() => setMenu(false)}>
+                    Tüm Makaleler
+                  </Link>
+                </li>
+                <li className="dropdown-list_link">
+                  <Link to="/blog/son-makaleler" onClick={() => setMenu(false)}>
+                    Son Eklenenler
+                  </Link>
+                </li>
+                <li className="last-child dropdown-list_link">
+                  <Link to="/blog/cok-okunanlar" onClick={() => setMenu(false)}>
+                    En Çok Okunanlar
+                  </Link>
+                </li>
+              </ul>
             </li>
             <li className="navbar__link">
               <Link className="navbar__link-page" to="/iletisim">

@@ -55,16 +55,16 @@ nav {
   &:hover {
     background-color: #971616;
   }
-  .navbar__link-page {
-    text-decoration: none;
-    color: white;
-    font-size: 1rem;
-    font-weight: 500;
-    padding: 0.5rem 1.5rem;
+}
+.navbar__link-page {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5rem 1.5rem;
 
-    &:hover {
-      color: white;
-    }
+  &:hover {
+    color: white;
   }
 }
 
@@ -123,9 +123,9 @@ nav {
 .kurumsal {
   width: 174px;
 }
-.our-services {
-  width: 174px;
-}
+// .our-services {
+//   width: 174px;
+// }
 
 .navbar__link:hover .dropdown-list {
   display: block;
