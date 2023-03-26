@@ -66,11 +66,17 @@ export default function Footer() {
           </div>
           <div className="items-contact">
             <i className="fa-solid fa-phone-flip"></i>
-            <p>+90 123 456 78 90</p>
+            <p>
+              <a href="tel: +90 222 221 26 00">+90 222 221 26 00</a>
+            </p>
           </div>
           <div className="items-contact">
             <i className="fa-solid fa-envelope"></i>
-            <p>av.lorem.ipsum@ erturk.hukuk.tr</p>
+            <p>
+              <a href="mailto: info@erturkhukukvedanismanlik.com">
+                info@erturkhukukvedanismanlik.com
+              </a>
+            </p>
           </div>
         </div>
       </div>
