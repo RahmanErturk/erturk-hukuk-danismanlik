@@ -62,7 +62,7 @@ export default function Header() {
                 to="/hizmetlerimiz"
                 className="navbar__link-page"
                 href="#hizmetlerimiz"
-                onClick={handleDropDown2}
+                onClick={handleClick}
               >
                 Faaliyet Alanları
               </Link>
@@ -112,7 +112,11 @@ export default function Header() {
               </ul>
             </li>
             <li className="navbar__link">
-              <Link className="navbar__link-page" to="/iletisim">
+              <Link
+                className="navbar__link-page"
+                to="/iletisim"
+                onClick={handleClick}
+              >
                 İletişim
               </Link>
             </li>

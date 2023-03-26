@@ -213,17 +213,17 @@ export const essays = [
           <br />
           <em>
             <b>KARAR :</b>
-             Dava, terk sebebine dayanmaktadır. ( TMK. md. 164 ) Olayda, davacı
+            Dava, terk sebebine dayanmaktadır. ( TMK. md. 164 ) Olayda, davacı
             koca, 18.10.2002 tarihinde mahkemeye başvurarak, eşinin
             Osmaniye'deki tuttuğu eve gelmesi için ihtar edilmesini istemiştir.
             İhtar kararı davalıya 1.11.2002 tarihinde tebliğ edilmiş, dava ise
             17.02.2003 tarihinde açılmıştır.Türk Medeni Kanunun 164. maddesi
-            gereğince, terk edilen eş boşanma davası açabilir. Terk eden eşin,
-            bu sebebe dayanarak boşanma davası açma hakkı bulunmamaktadır.
-            Diğerini, ortak konutu terk etmeye zorlayan veya haklı bir sebep
-            olmaksızın ortak konuta dönmesini engelleyen eş de terk etmiş
-            sayılır. Toplanan delillerden, Adana' da ki müşterek konutu
-            kocanın terk ettiği anlaşılmaktadır.
+            gereğince, terk edilen eş boşanma davası açabilir. Terk eden eşin,
+            bu sebebe dayanarak boşanma davası açma hakkı bulunmamaktadır.
+            Diğerini, ortak konutu terk etmeye zorlayan veya haklı bir sebep
+            olmaksızın ortak konuta dönmesini engelleyen eş de terk etmiş
+            sayılır. Toplanan delillerden, Adana' da ki müşterek konutu kocanın
+            terk ettiği anlaşılmaktadır.
             <b>
               İhtarla kadının davet edildiği konutun Türk Medeni Kanununun
               186/1. maddesi gereğince eşlerin birlikte seçtikleri bir konut
@@ -252,11 +252,11 @@ export const essays = [
             içinde karşı tarafın ihtar isteyenin göstermiş olduğu adreste ikamet
             eden Nuray B.'den müşterek konutun anahtarını alarak, ihtarda
             gösterilen müşterek haneye dönmesinin ihtarına, dönmediği takdirde
-            ihtar isteyen tarafın ihtar istenilen
-            aleyhine terk nedeniyle boşanma davası açmakta muhtariyetine, ihtar
-            isteyen tarafından ihtar edilenin adresine evine dönmesi bakımından
-            60.-YTL'nin gönderilmesine, PTT alındı makbuzunun dosyaya ibrazına
-            karar verilmiştir. <br />
+            ihtar isteyen tarafın ihtar istenilen aleyhine terk nedeniyle
+            boşanma davası açmakta muhtariyetine, ihtar isteyen tarafından ihtar
+            edilenin adresine evine dönmesi bakımından 60.-YTL'nin
+            gönderilmesine, PTT alındı makbuzunun dosyaya ibrazına karar
+            verilmiştir. <br />
             Az yukarıda açıklandığı üzere kanunun amir hükmü ile eve dönüş için
             ortaya konulan
             <b>
@@ -269,13 +269,13 @@ export const essays = [
             <br />
             Mahkemece, davanın reddi kararı sonucu itibariyle doğru ise de;
             açıklanan biçimsel koşulların eksikliği gözetilmeden işin esası
-            incelenip, nafaka davasının varlığı nedeniyle davalı
-            kadının terkte ve eve dönmemekte haklılığının kabulüne ilişkin
-            gerekçesi, nafaka davasının açıldığı 09.09.2005 tarihinden dört ay
-            geçtikten sonra 01.02.2006 tarihinde ihtar kararı istenmiş olması
-            karşısında yerinde görülmemiştir. <br />
-            Diğer yandan, 4721 sayılı Türk Medeni Kanunu'nun 184/1-3. maddesi
-            gereğince terk sebebine dayanan boşanma davasında, davalının "davayı
+            incelenip, nafaka davasının varlığı nedeniyle davalı kadının terkte
+            ve eve dönmemekte haklılığının kabulüne ilişkin gerekçesi, nafaka
+            davasının açıldığı 09.09.2005 tarihinden dört ay geçtikten sonra
+            01.02.2006 tarihinde ihtar kararı istenmiş olması karşısında yerinde
+            görülmemiştir. <br />
+            Diğer yandan, 4721 sayılı Türk Medeni Kanunu'nun 184/1-3. maddesi
+            gereğince terk sebebine dayanan boşanma davasında, davalının "davayı
             kabul" beyanı sonuç doğurmayacağından, direnme aşamasında davalının
             davayı kabul beyanı da sonuca etkili bulunmamıştır. <br />
             Tüm bu açıklamalar ışığında davanın reddi, sonucu itibariyle doğru
@@ -283,7 +283,7 @@ export const essays = [
             direnme kararının yukarında ayrıntısıyla açıklanan ve sonuçta
             davanın
             <b>
-              "ihtar kararının geçersizliği nedeniyle, dava şartı yokluğundan"
+              "ihtar kararının geçersizliği nedeniyle, dava şartı yokluğundan"
               reddi gerektiğine işaret eden değişik gerekçelerle onanması
               gerekmiştir. (T.C. YARGITAY HUKUK GENEL KURULU, E. 2008/2-136, K.
               2008/117, T. 13.2.2008)
@@ -388,22 +388,22 @@ export const essays = [
           </span>
           <br />
           <em>
-            <b>KARAR:</b> Mahkemece; tarafların "boşanma ve fer'ilerinde
+            <b>KARAR:</b> Mahkemece; tarafların "boşanma ve fer'ilerinde
             anlaşmış olmalarına" dayanılarak Türk Medeni Kanununun 166/3.
-            maddesi gereğince boşanmalarına karar verilmiş, kararı davacı temyiz
-            etmiştir. Davacı temyiz dilekçesinde boşanma davasından feragat
+            maddesi gereğince boşanmalarına karar verilmiş, kararı davacı temyiz
+            etmiştir. Davacı temyiz dilekçesinde boşanma davasından feragat
             ettiğine ilişkin bir beyanda bulunmamakta, eşi tarafından
-            tazminatsız ve nafakasız olarak boşanma konusunda kandırıldığını,
-            ileri sürerek kararın bozulmasını
-            istemektedir. Anlaşmalı boşanma yönünde oluşan karar kesinleşinceye
-            kadar, davacının bu yöndeki irade beyanından dönmesini engelleyici
-            yasal bir hüküm bulunmamaktadır. Böyle bir durumda davaya, çekişmeli
-            olarak devam edilmesi, buna bağlı olarak taraflara delil
-            göstermeleri için imkan tanınması, göstermeleri halinde delillerinin
-            toplanması ve Türk Medeni Kanununun 166/1-2. maddesinde yer
-            alan boşanma sebebinin gerçekleşip gerçekleşmediği saptanıp sonucuna
-            göre karar verilmesi gerekir. Açıklanan yönde araştırma ve inceleme
-            yapılmak üzere hükmün bozulması gerekmiştir.
+            tazminatsız ve nafakasız olarak boşanma konusunda kandırıldığını,
+            ileri sürerek kararın bozulmasını istemektedir. Anlaşmalı boşanma
+            yönünde oluşan karar kesinleşinceye kadar, davacının bu yöndeki
+            irade beyanından dönmesini engelleyici yasal bir hüküm
+            bulunmamaktadır. Böyle bir durumda davaya, çekişmeli olarak devam
+            edilmesi, buna bağlı olarak taraflara delil göstermeleri için imkan
+            tanınması, göstermeleri halinde delillerinin toplanması ve Türk
+            Medeni Kanununun 166/1-2. maddesinde yer alan boşanma sebebinin
+            gerçekleşip gerçekleşmediği saptanıp sonucuna göre karar verilmesi
+            gerekir. Açıklanan yönde araştırma ve inceleme yapılmak üzere hükmün
+            bozulması gerekmiştir.
             <b>
               (T.C. YARGITAY 2. HUKUK DAİRESİ, E. 2012/14467, K. 2012/31520, T.
               24.12.2012)
@@ -970,24 +970,23 @@ export const essays = [
           <br />
           <br />
           <em>
-            <b>KARAR :</b>  Davacı kocanın boşanma davası münhasıran
-            “haysiyetsiz hayat sürme” sebebine ( TMK.m.163 )
-            dayanmaktadır. Haysiyetsiz hayat sürmenin varlığından söz
-            edilebilmesi ve bu sebeple boşanma kararı verilebilmesi için; eşin,
-            sosyal hayatta toplumun genel değer yargılarıyla çatışan, olumsuz
-            nitelikte kabul edilen davranışının süreklilik göstermesi ve bu
-            davranışın diğer eş için birlikte yaşamayı ondan beklenemez hale
-            getirmesi gereklidir. Süreklilik göstermeyen bir defalık bir
-            davranış; Türk Medeni Kanunu'nun 166. madesindeki evlilik birliğinin
-            temelinden sarsılması durumu için yeterli olabilirse de, haysiyetsiz
-            hayat sürme sebebine dayalı boşanma kararı için yeterli değildir.
-            Davalı kadının bir başka erkekle cep telefonu ile konuştuğu ve
-            mesajlaştığı toplanan delillerle anlaşılmaktadır. Davalı kadının
-            gerçekleşen bu davranışı,
+            <b>KARAR :</b> Davacı kocanın boşanma davası münhasıran “haysiyetsiz
+            hayat sürme” sebebine ( TMK.m.163 ) dayanmaktadır. Haysiyetsiz hayat
+            sürmenin varlığından söz edilebilmesi ve bu sebeple boşanma kararı
+            verilebilmesi için; eşin, sosyal hayatta toplumun genel değer
+            yargılarıyla çatışan, olumsuz nitelikte kabul edilen davranışının
+            süreklilik göstermesi ve bu davranışın diğer eş için birlikte
+            yaşamayı ondan beklenemez hale getirmesi gereklidir. Süreklilik
+            göstermeyen bir defalık bir davranış; Türk Medeni Kanunu'nun 166.
+            madesindeki evlilik birliğinin temelinden sarsılması durumu için
+            yeterli olabilirse de, haysiyetsiz hayat sürme sebebine dayalı
+            boşanma kararı için yeterli değildir. Davalı kadının bir başka
+            erkekle cep telefonu ile konuştuğu ve mesajlaştığı toplanan
+            delillerle anlaşılmaktadır. Davalı kadının gerçekleşen bu davranışı,
             <span style={{ textDecoration: "underline" }}>
               davacı koca bakımından birlikte yaşamayı ondan beklenemez duruma
-              getirmiş ise de; sürekliliği olmadığı anlaşıldığından; haysiyetsiz
-              hayat sürme ile Türk Medeni Kanunu'nun 163. maddesindeki boşanma
+              getirmiş ise de; sürekliliği olmadığı anlaşıldığından; haysiyetsiz
+              hayat sürme ile Türk Medeni Kanunu'nun 163. maddesindeki boşanma
               sebebi sabit kabul edilerek yazılı şekilde hüküm kurulması doğru
               bulunmamıştır.
             </span>
@@ -995,18 +994,18 @@ export const essays = [
               (T.C.YARGITAY 2. HUKUK DAİRESİ, E. 2011/22536, K. 2012/17686, T.
               26.6.2012)
             </b>
-            <b>KARAR :</b>  Davalının, on iki yaşında bir kız çocuğuna cinsel
-            tacizde bulunduğu, suçu sabit görülerek bundan dolayı ceza aldığı
+            <b>KARAR :</b> Davalının, on iki yaşında bir kız çocuğuna cinsel
+            tacizde bulunduğu, suçu sabit görülerek bundan dolayı ceza aldığı
             yapılan soruşturma ve toplanan delillerden anlaşılmaktadır.
-            Mahkemece, "... davalının bu suçu bir kere işlemiş olmasının tek
-            başına boşanmaya neden olmayacağı vicdani kanaatine varıldığı, bu
+            Mahkemece, "... davalının bu suçu bir kere işlemiş olmasının tek
+            başına boşanmaya neden olmayacağı vicdani kanaatine varıldığı, bu
             durumun evliliği diğer eş bakımından çekilmez hale getirdiğinin
             ispatlanması gerektiği, bu yolda delil getirilmediği...",
             gerekçesiyle dava reddedilmiştir. Dava Türk Medeni Kanununun 163.
-            maddesinde yer alan "küçük düşürücü suç işleme" sebebine dayanılarak
-            açılmıştır, işlenen suçun niteliğine göre davacının dava açması
+            maddesinde yer alan "küçük düşürücü suç işleme" sebebine dayanılarak
+            açılmıştır, işlenen suçun niteliğine göre davacının dava açması
             karşısında onunla birlikte yaşaması kendisinden beklenemeyeceği açık
-            ve tartışmasızdır. Boşanma sebebi gerçekleşmiştir. Davanın kabulü
+            ve tartışmasızdır. Boşanma sebebi gerçekleşmiştir. Davanın kabulü
             gerekirken, isteğin reddi doğru görülmemiştir.
             <b>
               (T.C. YARGITAY 2. HUKUK DAİRESİ E. 2014/20560 K. 2015/4947 T.
@@ -1061,29 +1060,28 @@ export const essays = [
             anlaşılmaktadır. Bu vakıa mahkemece de sabit kabul edilmiştir.
             <b>
               Kadının, yalnızken bir başka erkeği ortak konuta alması ve bu
-              şahsın yarı çıplak vaziyette gizlenirken
-              yakalanması zinanın varlığına delalet eder.
+              şahsın yarı çıplak vaziyette gizlenirken yakalanması zinanın
+              varlığına delalet eder.
             </b>
-            Bu bakımdan zina kanıtlanmıştır. Davacı-karşı davalı
-            kocanın boşanma davasının zina sebebiyle kabulü gerekirken, bu yön
-            nazara alınmadan yazılı şekilde hüküm kurulması doğru görülmemiştir.
-            (T.C. YARGITAY, 2. HUKUK DAİRESİ, E. 2012/16833, K. 2013/17864, T.
-            25.6.2013) • ZİNA NEDENİYLE BOŞANMA DAVASINDA HAK DÜŞÜRÜCÜ SÜRELERE
-            DAİR: <br />… Tüm dosya kapsamına ve özellikle taraflar arasında
-            görülmekte olan İzmir 9.Aile Mahkemesinin 2008/474 esas sayılı
-            davada dinlenen tanık Burcu Üsgülen'in beyanına göre;
-            davacı-karşılık davalı Cenk'in Romen asıllı bir kadınla birlikte
-            yaşadığı ve bu kadından olan 19.9.2004 doğumlu Bora isimli çocuğu
-            tanıyarak 23.8.2005 tarihinde nüfusuna tescil ettirdiği
-            anlaşılmaktadır. Zina nedenine dayalı boşanma davalarında (
-            TMK.:m.161 ) dava açma süresi; devam eden zina eyleminde; bu eylemin
-            sona erdiği tarihten itibaren başlar. Toplanan kanıtlardan;
-            davacı-karşılık davalı Cenk'in zina eyleminin devam ettiği
-            anlaşılmaktadır. Davalı-karşılık davacı Meral'in zina nedenine (
-            TMk.m.161 ) dayalı karşılık boşanma davasının da kabulü gerekirken
-            yanlış değerlendirme sonucu bu davanın reddi doğru görülmemiştir.
-            (T.C. YARGITAY, 2. HUKUK DAİRESİ, E. 2009/17433, K. 2010/21602, T.
-            21.12.2010)
+            Bu bakımdan zina kanıtlanmıştır. Davacı-karşı davalı kocanın boşanma
+            davasının zina sebebiyle kabulü gerekirken, bu yön nazara alınmadan
+            yazılı şekilde hüküm kurulması doğru görülmemiştir. (T.C. YARGITAY,
+            2. HUKUK DAİRESİ, E. 2012/16833, K. 2013/17864, T. 25.6.2013) • ZİNA
+            NEDENİYLE BOŞANMA DAVASINDA HAK DÜŞÜRÜCÜ SÜRELERE DAİR: <br />… Tüm
+            dosya kapsamına ve özellikle taraflar arasında görülmekte olan İzmir
+            9.Aile Mahkemesinin 2008/474 esas sayılı davada dinlenen tanık Burcu
+            Üsgülen'in beyanına göre; davacı-karşılık davalı Cenk'in Romen
+            asıllı bir kadınla birlikte yaşadığı ve bu kadından olan 19.9.2004
+            doğumlu Bora isimli çocuğu tanıyarak 23.8.2005 tarihinde nüfusuna
+            tescil ettirdiği anlaşılmaktadır. Zina nedenine dayalı boşanma
+            davalarında ( TMK.:m.161 ) dava açma süresi; devam eden zina
+            eyleminde; bu eylemin sona erdiği tarihten itibaren başlar. Toplanan
+            kanıtlardan; davacı-karşılık davalı Cenk'in zina eyleminin devam
+            ettiği anlaşılmaktadır. Davalı-karşılık davacı Meral'in zina
+            nedenine ( TMk.m.161 ) dayalı karşılık boşanma davasının da kabulü
+            gerekirken yanlış değerlendirme sonucu bu davanın reddi doğru
+            görülmemiştir. (T.C. YARGITAY, 2. HUKUK DAİRESİ, E. 2009/17433, K.
+            2010/21602, T. 21.12.2010)
           </em>
           <br />
           <br />
@@ -1333,12 +1331,12 @@ export const essays = [
           <br />
           <em>
             <b>KARAR :</b>
-             Dava akıl hastalığına dayalı boşanma istemine ilişkindir. Türk
-            Medeni Kanunu'nun 165. maddesi uyarınca, eşlerden biri akıl hastası
-            olup da bu yüzden ortak hayat diğer eş için çekilmez hale
-            gelirse, hastalığın geçmesine olanak bulunmadığı resmi sağlık kurulu
-            raporuyla tespit edilmek koşuluyla bu eş boşanma davası açabilir.
-            Toplanan delillerle, davalının akıl hastalığının
+            Dava akıl hastalığına dayalı boşanma istemine ilişkindir. Türk
+            Medeni Kanunu'nun 165. maddesi uyarınca, eşlerden biri akıl hastası
+            olup da bu yüzden ortak hayat diğer eş için çekilmez hale gelirse,
+            hastalığın geçmesine olanak bulunmadığı resmi sağlık kurulu
+            raporuyla tespit edilmek koşuluyla bu eş boşanma davası açabilir.
+            Toplanan delillerle, davalının akıl hastalığının
             <b>
               davacı eş için müşterek hayatı çekilmez hale getirdiği
               kanıtlanmamıştır. Davacının davasının reddi gerekirken, yazılı
@@ -1353,20 +1351,20 @@ export const essays = [
           </span>
           <br />
           <em>
-            <b>KARAR :</b> Davacı 5.7.2005 tarihli dilekçe ile davasının
-            şiddetli geçimsizlik nedenine dayalı olduğunu belirterek davasını
-            hasretmiş, 24.11.2006 tarihli celsede ise hem akıl hastalığı hem de
-            şiddetli geçimsizlik nedenlerine dayandıklarını açıklamıştır.
+            <b>KARAR :</b> Davacı 5.7.2005 tarihli dilekçe ile davasının
+            şiddetli geçimsizlik nedenine dayalı olduğunu belirterek davasını
+            hasretmiş, 24.11.2006 tarihli celsede ise hem akıl hastalığı hem de
+            şiddetli geçimsizlik nedenlerine dayandıklarını açıklamıştır.
             <b>
-              Davacının, davanın hukuki nedenlerine yeni nedenler eklemesi ıslah
+              Davacının, davanın hukuki nedenlerine yeni nedenler eklemesi ıslah
               yolu ile de mümkün değildir.
             </b>
-            Mahkemece davalı kadın akıl hastalığı nedeniyle kısıtlanıp kendisine
-            vasi tayin edildiğine göre, davacı kocanın şiddetli
-            geçimsizlik nedenine dayalı boşanma davasında kadının hareketleri
-            iradi olmadığından kusurlu kabul edilemez. Gerçekleşen bu durum
-            karşısında davanın reddine karar vermek gerekirken yazılı
-            şekilde boşanmaya karar verilmesi usul ve yasaya aykırıdır.
+            Mahkemece davalı kadın akıl hastalığı nedeniyle kısıtlanıp kendisine
+            vasi tayin edildiğine göre, davacı kocanın şiddetli geçimsizlik
+            nedenine dayalı boşanma davasında kadının hareketleri iradi
+            olmadığından kusurlu kabul edilemez. Gerçekleşen bu durum karşısında
+            davanın reddine karar vermek gerekirken yazılı şekilde boşanmaya
+            karar verilmesi usul ve yasaya aykırıdır.
             <b>
               (T.C. YARGITAY 2. HUKUK DAİRESİ, E. 2007/5312, K. 2008/3245, T.
               12.3.2008)
@@ -1418,17 +1416,17 @@ export const essays = [
           yaşanılan durumu onur kırıcı davranış olarak nitelendirip takdir
           etmesine yardımcı olacaktır. <br />
           <br />
-          Hemen belirtilmelidir ki, diğer eşin hayatına kast eden veya
-          pek kötü ya da onur kırıcı davranışta bulunan eşin bunu kasten
-          işlemesi ve ayırt etme gücünün bulunması gerekmektedir. İlgili hükme
-          göre affeden tarafın dava hakkı olmadığı ve öğrenmeden itibaren 6
-          aylık, olayın gerçekleşmesinden itibaren 5 yıllık hak düşürücü
-          sürelerin bulunduğu gözden kaçırılmamalıdır. Ayrıca ilgili hükme göre
-          hayata kast, pek kötü ve onur kırıcı davranış nedeniyle diğer eş
-          tarafından ceza davası açılması sonrasında, diğer eşin ceza davasından
-          vazgeçmesi veya şikâyetini çekmesi durumunda karşı tarafı affetmiş
-          olmayacağı ve bu madde hükmüne dayanarak boşanma davası açabileceği
-          Yargıtay içtihatları ile kabul edilmiştir. <br />
+          Hemen belirtilmelidir ki, diğer eşin hayatına kast eden veya pek kötü
+          ya da onur kırıcı davranışta bulunan eşin bunu kasten işlemesi ve
+          ayırt etme gücünün bulunması gerekmektedir. İlgili hükme göre affeden
+          tarafın dava hakkı olmadığı ve öğrenmeden itibaren 6 aylık, olayın
+          gerçekleşmesinden itibaren 5 yıllık hak düşürücü sürelerin bulunduğu
+          gözden kaçırılmamalıdır. Ayrıca ilgili hükme göre hayata kast, pek
+          kötü ve onur kırıcı davranış nedeniyle diğer eş tarafından ceza davası
+          açılması sonrasında, diğer eşin ceza davasından vazgeçmesi veya
+          şikâyetini çekmesi durumunda karşı tarafı affetmiş olmayacağı ve bu
+          madde hükmüne dayanarak boşanma davası açabileceği Yargıtay
+          içtihatları ile kabul edilmiştir. <br />
           <br />
           <span style={{ textDecoration: "underline" }}>
             <em>
@@ -1448,13 +1446,13 @@ export const essays = [
             tarafların tartışmaya başladıkları, karşılıklı itiş kakış yaşandığı,
             erkeğin içeri girip eşini yatak odasına götürerek koluna vurduğu,
             saçını çektiği ve tanık ifadesine göre erkek eşin elinde bir yumak
-            saç kaldığı, bu olay nedeniyle Silifke Sulh Ceza Mahkemesi'nin
+            saç kaldığı, bu olay nedeniyle Silifke Sulh Ceza Mahkemesi'nin
             2012/1276 E., 2013/198 K. sayılı dosyasında tarafların yargılanarak
-            ceza aldığı, bu olaydan iki gün sonra da davalı-karşı davacı
-            kadının boşanma davası açtığı, diğer yandan erkeğin eşini etrafta
-            "ahlâksız, içkici" gibi sözlerle kötülediği tüm dosya kapsamı ile
-            sabittir. Davalı-karşı davacı kadının ceza dosyasına konu fiziksel
-            şiddet eylemi nedeniyle eşini affettiğine dair herhangi bir delil de
+            ceza aldığı, bu olaydan iki gün sonra da davalı-karşı davacı kadının
+            boşanma davası açtığı, diğer yandan erkeğin eşini etrafta "ahlâksız,
+            içkici" gibi sözlerle kötülediği tüm dosya kapsamı ile sabittir.
+            Davalı-karşı davacı kadının ceza dosyasına konu fiziksel şiddet
+            eylemi nedeniyle eşini affettiğine dair herhangi bir delil de
             bulunmamaktadır.
           </em>
           <br />
@@ -1463,9 +1461,9 @@ export const essays = [
             <b>
               davacı-karşı davalı erkeğin eşine fiziksel şiddet uygulaması ve
               sarf ettiği hakaret sözcükleri dikkate alındığında bu eylemlerin
-              onur kırıcı davranış sayılacağı,
+              onur kırıcı davranış sayılacağı,
             </b>
-            dolayısıyla TMK'nın 162. maddesinde belirtilen koşulların oluştuğu
+            dolayısıyla TMK'nın 162. maddesinde belirtilen koşulların oluştuğu
             ve kadın eşin karşı davasının kabulü gerektiği belirgindir.
           </em>
           <br />
@@ -1582,7 +1580,7 @@ export const essays = [
           </span>
           <br />
           <em>
-            <b>KARAR :</b>  Yapılan soruşturma, toplanan delillerle davalının
+            <b>KARAR :</b> Yapılan soruşturma, toplanan delillerle davalının
             davacı
             <b>
               kocasına manyak, deli diyerek hakaret ettiği, kayın validesini de
@@ -1594,12 +1592,12 @@ export const essays = [
               geçimsizlikle her iki tarafında eşit kusurlu olduğu
               anlaşılmaktadır.
             </b>
-            Bu halde taraflar arasında müşterek hayatı temelinden sarsacak
-            derecede ve birliğin devamına imkan vermeyecek nitelikte bir
+            Bu halde taraflar arasında müşterek hayatı temelinden sarsacak
+            derecede ve birliğin devamına imkan vermeyecek nitelikte bir
             geçimsizlik mevcut ve sabittir. Olayların akışı karşısında davacı
             dava açmakta haklıdır.
             <b>
-              Bu şartlar altında eşleri birlikte yaşamaya zorlamanın artık
+              Bu şartlar altında eşleri birlikte yaşamaya zorlamanın artık
               kanunen mümkün görülmemesine göre,
             </b>
             boşanmaya karar verilecek yerde, yetersiz gerekçe ile davanın reddi
