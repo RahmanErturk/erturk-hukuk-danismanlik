@@ -1,8 +1,32 @@
-import React from "react";
+import React, { useRef } from "react";
+import emailjs from "@emailjs/browser";
 
 import "./Contact.scss";
 
 export default function Contact() {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs
+      .sendForm(
+        "service_m3icy5l",
+        "my_template",
+        form.current,
+        "5hyaKlZ7YaWjY4KZq"
+      )
+      .then(
+        (result) => {
+          console.log(result.text);
+        },
+        (error) => {
+          console.log(error.text);
+        }
+      );
+    e.target.reset();
+  };
+
   return (
     <section id="iletisim">
       <div className="placeholder"></div>
@@ -26,11 +50,11 @@ export default function Contact() {
               <p>Hemen formu doldurun, size en kısa sürede dönüş yapalım.</p>
             </div>
 
-            <form action="https://formspree.io/f/myyolvky" method="post">
+            <form ref={form} onSubmit={sendEmail}>
               <label>
                 <input
                   type="text"
-                  name="vorname"
+                  name="first_name"
                   className="form-item"
                   placeholder="Adınız"
                   required
@@ -40,7 +64,7 @@ export default function Contact() {
               <label>
                 <input
                   type="text"
-                  name="lastname"
+                  name="last_name"
                   className="form-item"
                   placeholder="Soyadınız"
                   required
@@ -50,7 +74,7 @@ export default function Contact() {
               <label>
                 <input
                   type="text"
-                  name="straße"
+                  name="address"
                   className="form-item"
                   placeholder="Adres"
                   required
@@ -60,7 +84,7 @@ export default function Contact() {
               <label>
                 <input
                   type="text"
-                  name="telefon"
+                  name="tel"
                   className="form-item"
                   placeholder="Telefon Numaranız"
                 />
@@ -79,7 +103,7 @@ export default function Contact() {
               <label>
                 <input
                   type="text"
-                  name="telefon"
+                  name="subject"
                   className="form-item"
                   placeholder="Konu"
                 />
@@ -87,7 +111,7 @@ export default function Contact() {
               <br />
               <label>
                 <textarea
-                  name="kommentar"
+                  name="message"
                   className="form-item message"
                   placeholder="Mesajınız"
                 ></textarea>
